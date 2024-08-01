@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tv-ig="Radio" tvg-name="Radio" group-title"UK | category", Hits Radio North East
+https://edge-bauerall-01-gos2.sharp-stream.com/metro.mp3
+#EXTINF:-1 tv-ig="Radio" tvg-name="Radio" group-title"UK | category", Capital FM North East
+http://icecast.thisisdax.com/CapitalTyneWear.m3u
